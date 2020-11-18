@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselAppDovzenok.Android", "CarouselAppDovzenok\CarouselAppDovzenok.Android\CarouselAppDovzenok.Android.csproj", "{D10F2D09-8E86-4A9E-864A-30C00E260935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselAppDovzenok", "CarouselAppDovzenok\CarouselAppDovzenok\CarouselAppDovzenok.csproj", "{AFB4AE20-1FCB-4EE1-83FF-4F284B07F8F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10F2D09-8E86-4A9E-864A-30C00E260935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10F2D09-8E86-4A9E-864A-30C00E260935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10F2D09-8E86-4A9E-864A-30C00E260935}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D10F2D09-8E86-4A9E-864A-30C00E260935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10F2D09-8E86-4A9E-864A-30C00E260935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10F2D09-8E86-4A9E-864A-30C00E260935}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AFB4AE20-1FCB-4EE1-83FF-4F284B07F8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB4AE20-1FCB-4EE1-83FF-4F284B07F8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB4AE20-1FCB-4EE1-83FF-4F284B07F8F5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AFB4AE20-1FCB-4EE1-83FF-4F284B07F8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB4AE20-1FCB-4EE1-83FF-4F284B07F8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB4AE20-1FCB-4EE1-83FF-4F284B07F8F5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA61C7D-47AF-4813-BA63-C571FD22B0B3}
+	EndGlobalSection
+EndGlobal
